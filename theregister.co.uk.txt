@@ -5,4 +5,4 @@ title: //div[@id="article"]/h2
 author: //p[@class="byline"]/a
 date: //p[@class="dateline"]/a[last()]
 
-test_url: http://www.theregister.co.uk/Print/2014/01/24/thirty_years_of_the_apple_macintosh_part_2/
+test_url: http://www.theregister.co.uk/2014/01/24/thirty_years_of_the_apple_macintosh_part_2/
